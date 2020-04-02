@@ -357,6 +357,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9577ddbb8855eba46b88b7d78bd528c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  me: {fileID: 2231326869334539728}
+  patrol: 0
+  goalPatrol: 0
+  patirst: 0
+  patrolation: 0
+  patrolationRate: 0
+  damage: 0
+  bloodlust: 0
+  decombatRate: 0.1
+  healthiness: 0.01
+  healthiety: 0
+  battlewant: 0
+  goalhealth: 0
+  goalcombat: 0
   appetite: 0.8
   thirst: 0.5
   wanderlust: 0
